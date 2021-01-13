@@ -1,6 +1,5 @@
 package guru.springframework.sfgpetclinic.controllers;
 
-import jdk.jfr.Enabled;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
